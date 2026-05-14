@@ -1,0 +1,22 @@
+LOGDIR  :       /var/crash/INST1/sqltrace
+LOGFILE :       /var/crash/INST1/sqltrace/sqltrace.log
+INFOLOG :       /var/crash/INST1/sqltrace/sqltrace_info.log
+LOCKDIR :       /var/crash/INST1/sqltrace/
+INDIR :       /var/crash/INST1/sqltrace/xml_in
+OUTDIR :       /var/crash/INST1/sqltrace/xml_out
+ERRDIR :       /var/crash/INST1/sqltrace/xml_err
+PARTNSTORE :       /var/crash/INST1/sqltrace/.partnstore
+LOCKFILE :      .sqltrace_check
+MAILFROM        :        andrew.curry@ardenta.com
+MAILRECP        :        andrew.curry@ardenta.com
+LOGLEVEL        :       debug
+TIMEOUT :       10
+DATABASE        :       ardenta_stats
+FORCE_STOP      :       0
+DTD		:	/opt/informix/claranet_sqltracer/schemas/ClaranetSQLTrace.dtd
+SPECIAL_SQL	:	/opt/informix/claranet_sqltracer/configs/special_queries.txt
+
+#
+# sleeps
+#
+XMLGENERATOR_SLEEP :  30

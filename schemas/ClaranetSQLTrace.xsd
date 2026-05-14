@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="ClaranetSQLTrace">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Queries"/>
+      </xs:sequence>
+      <xs:attribute name="min_sample_time" use="required"/>
+      <xs:attribute name="max_sample_time" use="required"/>
+      <xs:attribute name="version" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Queries">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Query"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Query">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="QueryText"/>
+        <xs:element ref="ExplainPlans"/>
+        <xs:element ref="Executions"/>
+      </xs:sequence>
+      <xs:attribute name="md5" use="required"/>
+      <xs:attribute name="sql_type" use="required"/>
+      <xs:attribute name="total_executions_in_sample" use="required" type="xs:integer"/>
+      <xs:attribute name="total_explains" use="required" type="xs:integer"/>
+      <xs:attribute name="total_time" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QueryText" type="xs:string"/>
+  <xs:element name="ExplainPlans">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ExplainPlan"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ExplainPlan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="PlanText"/>
+      </xs:sequence>
+      <xs:attribute name="max_execution_time" use="required" type="xs:decimal"/>
+      <xs:attribute name="md5" use="required" type="xs:NCName"/>
+      <xs:attribute name="min_execution_time" use="required" type="xs:decimal"/>
+      <xs:attribute name="total_time" use="required" type="xs:integer"/>
+      <xs:attribute name="total_executions" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_memory_sorts" use="required" type="xs:integer"/>
+      .<xs:attribute name="avg_log_space" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_average_rows_per_second" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_read_percent_cache" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_buffer_write" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_lock_wait" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_number_of_sorts" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_buffer_index_read" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_sql_memory" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_average_io_wait" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_write_percent_cache" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_buffer_reads" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_cost" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_lock_request" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_lock_wait_time" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_page_write" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_disk_sorts" use="required" type="xs:integer"/>
+      <xs:attribute name="avg_page_reads" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PlanText" type="xs:NCName"/>
+  <xs:element name="Executions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Execution"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Execution">
+    <xs:complexType>
+      <xs:attribute name="cost" use="required" type="xs:integer"/>
+      <xs:attribute name="execute_time" use="required" type="xs:decimal"/>
+      <xs:attribute name="plan_md5" use="required" type="xs:NCName"/>
+      <xs:attribute name="sid" use="required" type="xs:integer"/>
+      <xs:attribute name="time" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="user_id" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,4 @@
+$special_sql = {
+'insert into tVegasSubInfo (xsys_sub_id,action,action_seq_no,amount_staked,ccy_code)'
+    => 'insert into tVegasSubInfo (xsys_sub_id,action,action_seq_no,amount_staked,ccy_code) values (?,?,?,?,?);'
+};

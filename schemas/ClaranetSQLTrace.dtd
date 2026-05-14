@@ -1,0 +1,60 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT ClaranetSQLTrace (Queries)>
+<!ATTLIST ClaranetSQLTrace
+ max_sample_time CDATA #REQUIRED
+ min_sample_time CDATA #REQUIRED
+ version CDATA #REQUIRED>
+
+<!ELEMENT Queries (Query)+>
+
+<!ELEMENT Query (QueryText,ExplainPlans,Executions)>
+<!ATTLIST Query
+  md5 CDATA #REQUIRED
+  sql_type CDATA #REQUIRED
+  total_executions_in_sample CDATA #REQUIRED
+  total_explains CDATA #REQUIRED
+  total_time CDATA #REQUIRED>
+
+<!ELEMENT QueryText (#PCDATA)>
+
+<!ELEMENT ExplainPlans (ExplainPlan+)>
+
+<!ELEMENT Executions (Execution)+>
+
+<!ELEMENT ExplainPlan (PlanText)>
+<!ATTLIST ExplainPlan
+  max_execution_time CDATA #REQUIRED
+  md5 CDATA #REQUIRED
+  total_time CDATA #REQUIRED
+  min_execution_time CDATA #REQUIRED
+  total_executions CDATA #REQUIRED
+  avg_memory_sorts CDATA #REQUIRED
+  avg_log_space CDATA #REQUIRED
+  avg_average_rows_per_second CDATA #REQUIRED
+  avg_read_percent_cache CDATA #REQUIRED
+  avg_buffer_write CDATA #REQUIRED
+  avg_lock_wait CDATA #REQUIRED
+  avg_number_of_sorts CDATA #REQUIRED
+  avg_buffer_index_read CDATA #REQUIRED
+  avg_sql_memory CDATA #REQUIRED
+  avg_average_io_wait CDATA #REQUIRED
+  avg_write_percent_cache CDATA #REQUIRED
+  avg_buffer_reads CDATA #REQUIRED
+  avg_cost CDATA #REQUIRED
+  avg_lock_request CDATA #REQUIRED
+  avg_lock_wait_time CDATA #REQUIRED
+  avg_page_write CDATA #REQUIRED
+  avg_disk_sorts CDATA #REQUIRED
+  avg_page_reads CDATA #REQUIRED>
+
+<!ELEMENT Execution EMPTY>
+<!ATTLIST Execution
+  cost CDATA #REQUIRED
+  execute_time CDATA #REQUIRED
+  plan_md5 CDATA #REQUIRED
+  sid CDATA #REQUIRED
+  total CDATA #REQUIRED
+  time CDATA #REQUIRED
+  user_id CDATA #REQUIRED>
+
+<!ELEMENT PlanText (#PCDATA)>

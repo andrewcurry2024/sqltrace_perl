@@ -1,0 +1,457 @@
+2020-01-24 12:00:41 Processing sqltracer_20200121104420.xml
+2020-01-24 12:00:43 Processed sqltracer_20200121104420.xml: 584 Query nodes to process, 380 unique query and execution plans,  219  skipped as archiving plans,0 errors
+2020-01-24 12:00:43 processed sqltracer_20200121104420.xml, moving to out (sample_id 1)
+2020-01-24 12:00:43 Processing sqltracer_20200121104547.xml
+2020-01-24 12:00:44 Processed sqltracer_20200121104547.xml: 371 Query nodes to process, 363 unique query and execution plans,  23  skipped as archiving plans,0 errors
+2020-01-24 12:00:44 processed sqltracer_20200121104547.xml, moving to out (sample_id 2)
+2020-01-24 12:00:44 Processing sqltracer_20200121104708.xml
+2020-01-24 12:00:45 Processed sqltracer_20200121104708.xml: 496 Query nodes to process, 294 unique query and execution plans,  215  skipped as archiving plans,0 errors
+2020-01-24 12:00:45 processed sqltracer_20200121104708.xml, moving to out (sample_id 3)
+2020-01-24 12:00:45 Processing sqltracer_20200121104835.xml
+2020-01-24 12:00:46 Processed sqltracer_20200121104835.xml: 570 Query nodes to process, 367 unique query and execution plans,  217  skipped as archiving plans,0 errors
+2020-01-24 12:00:46 processed sqltracer_20200121104835.xml, moving to out (sample_id 4)
+2020-01-24 12:00:46 Processing sqltracer_20200121105001.xml
+2020-01-24 12:00:47 Processed sqltracer_20200121105001.xml: 381 Query nodes to process, 371 unique query and execution plans,  25  skipped as archiving plans,0 errors
+2020-01-24 12:00:47 processed sqltracer_20200121105001.xml, moving to out (sample_id 5)
+2020-01-24 12:00:47 Processing sqltracer_20200121105126.xml
+2020-01-24 12:00:49 Processed sqltracer_20200121105126.xml: 842 Query nodes to process, 365 unique query and execution plans,  491  skipped as archiving plans,0 errors
+2020-01-24 12:00:49 processed sqltracer_20200121105126.xml, moving to out (sample_id 6)
+2020-01-24 12:00:49 Processing sqltracer_20200121105254.xml
+2020-01-24 12:00:50 Processed sqltracer_20200121105254.xml: 866 Query nodes to process, 383 unique query and execution plans,  498  skipped as archiving plans,0 errors
+2020-01-24 12:00:50 processed sqltracer_20200121105254.xml, moving to out (sample_id 7)
+2020-01-24 12:00:50 Processing sqltracer_20200121105420.xml
+2020-01-24 12:00:52 Processed sqltracer_20200121105420.xml: 369 Query nodes to process, 359 unique query and execution plans,  25  skipped as archiving plans,0 errors
+2020-01-24 12:00:52 processed sqltracer_20200121105420.xml, moving to out (sample_id 8)
+2020-01-24 12:00:52 Processing sqltracer_20200121105548.xml
+2020-01-24 12:00:53 Processed sqltracer_20200121105548.xml: 588 Query nodes to process, 383 unique query and execution plans,  219  skipped as archiving plans,0 errors
+2020-01-24 12:00:53 processed sqltracer_20200121105548.xml, moving to out (sample_id 9)
+2020-01-24 12:00:53 Processing sqltracer_20200121105714.xml
+2020-01-24 12:00:55 Processed sqltracer_20200121105714.xml: 428 Query nodes to process, 419 unique query and execution plans,  23  skipped as archiving plans,0 errors
+2020-01-24 12:00:55 processed sqltracer_20200121105714.xml, moving to out (sample_id 10)
+2020-01-24 12:00:55 Processing sqltracer_20200121105841.xml
+2020-01-24 12:00:56 Processed sqltracer_20200121105841.xml: 431 Query nodes to process, 425 unique query and execution plans,  23  skipped as archiving plans,0 errors
+2020-01-24 12:00:56 processed sqltracer_20200121105841.xml, moving to out (sample_id 11)
+2020-01-24 12:00:56 Processing sqltracer_20200121110008.xml
+2020-01-24 12:00:58 Processed sqltracer_20200121110008.xml: 570 Query nodes to process, 366 unique query and execution plans,  219  skipped as archiving plans,0 errors
+2020-01-24 12:00:58 processed sqltracer_20200121110008.xml, moving to out (sample_id 12)
+2020-01-24 12:00:58 Processing sqltracer_20200121110123.xml
+2020-01-24 12:00:58 Processed sqltracer_20200121110123.xml: 138 Query nodes to process, 144 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:00:58 processed sqltracer_20200121110123.xml, moving to out (sample_id 13)
+2020-01-24 12:00:58 Processing sqltracer_20200121110246.xml
+2020-01-24 12:00:59 Processed sqltracer_20200121110246.xml: 357 Query nodes to process, 371 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:00:59 processed sqltracer_20200121110246.xml, moving to out (sample_id 14)
+2020-01-24 12:00:59 Processing sqltracer_20200121110414.xml
+2020-01-24 12:01:00 Processed sqltracer_20200121110414.xml: 565 Query nodes to process, 389 unique query and execution plans,  191  skipped as archiving plans,0 errors
+2020-01-24 12:01:00 processed sqltracer_20200121110414.xml, moving to out (sample_id 15)
+2020-01-24 12:01:00 Processing sqltracer_20200121110540.xml
+2020-01-24 12:01:02 Processed sqltracer_20200121110540.xml: 380 Query nodes to process, 394 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:02 processed sqltracer_20200121110540.xml, moving to out (sample_id 16)
+2020-01-24 12:01:02 Processing sqltracer_20200121110705.xml
+2020-01-24 12:01:03 Processed sqltracer_20200121110705.xml: 356 Query nodes to process, 371 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:03 processed sqltracer_20200121110705.xml, moving to out (sample_id 17)
+2020-01-24 12:01:03 Processing sqltracer_20200121110833.xml
+2020-01-24 12:01:05 Processed sqltracer_20200121110833.xml: 379 Query nodes to process, 394 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:05 processed sqltracer_20200121110833.xml, moving to out (sample_id 18)
+2020-01-24 12:01:05 Processing sqltracer_20200121111000.xml
+2020-01-24 12:01:06 Processed sqltracer_20200121111000.xml: 341 Query nodes to process, 356 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:06 processed sqltracer_20200121111000.xml, moving to out (sample_id 19)
+2020-01-24 12:01:06 Processing sqltracer_20200121111127.xml
+2020-01-24 12:01:07 Processed sqltracer_20200121111127.xml: 340 Query nodes to process, 355 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:07 processed sqltracer_20200121111127.xml, moving to out (sample_id 20)
+2020-01-24 12:01:07 Processing sqltracer_20200121111254.xml
+2020-01-24 12:01:09 Processed sqltracer_20200121111254.xml: 362 Query nodes to process, 377 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:09 processed sqltracer_20200121111254.xml, moving to out (sample_id 21)
+2020-01-24 12:01:09 Processing sqltracer_20200121111421.xml
+2020-01-24 12:01:10 Processed sqltracer_20200121111421.xml: 348 Query nodes to process, 363 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:10 processed sqltracer_20200121111421.xml, moving to out (sample_id 22)
+2020-01-24 12:01:10 Processing sqltracer_20200121111547.xml
+2020-01-24 12:01:12 Processed sqltracer_20200121111547.xml: 636 Query nodes to process, 374 unique query and execution plans,  276  skipped as archiving plans,0 errors
+2020-01-24 12:01:12 processed sqltracer_20200121111547.xml, moving to out (sample_id 23)
+2020-01-24 12:01:12 Processing sqltracer_20200121111708.xml
+2020-01-24 12:01:12 Processed sqltracer_20200121111708.xml: 297 Query nodes to process, 311 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:12 processed sqltracer_20200121111708.xml, moving to out (sample_id 24)
+2020-01-24 12:01:12 Processing sqltracer_20200121111834.xml
+2020-01-24 12:01:14 Processed sqltracer_20200121111834.xml: 506 Query nodes to process, 549 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:14 processed sqltracer_20200121111834.xml, moving to out (sample_id 25)
+2020-01-24 12:01:14 Processing sqltracer_20200121112007.xml
+2020-01-24 12:01:18 Processed sqltracer_20200121112007.xml: 488 Query nodes to process, 536 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:18 processed sqltracer_20200121112007.xml, moving to out (sample_id 26)
+2020-01-24 12:01:18 Processing sqltracer_20200121112139.xml
+2020-01-24 12:01:23 Processed sqltracer_20200121112139.xml: 426 Query nodes to process, 467 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:23 processed sqltracer_20200121112139.xml, moving to out (sample_id 27)
+2020-01-24 12:01:23 Processing sqltracer_20200121112311.xml
+2020-01-24 12:01:28 Processed sqltracer_20200121112311.xml: 445 Query nodes to process, 490 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:28 processed sqltracer_20200121112311.xml, moving to out (sample_id 28)
+2020-01-24 12:01:28 Processing sqltracer_20200121112442.xml
+2020-01-24 12:01:32 Processed sqltracer_20200121112442.xml: 428 Query nodes to process, 468 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:32 processed sqltracer_20200121112442.xml, moving to out (sample_id 29)
+2020-01-24 12:01:32 Processing sqltracer_20200121112613.xml
+2020-01-24 12:01:36 Processed sqltracer_20200121112613.xml: 434 Query nodes to process, 477 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:36 processed sqltracer_20200121112613.xml, moving to out (sample_id 30)
+2020-01-24 12:01:36 Processing sqltracer_20200121112744.xml
+2020-01-24 12:01:40 Processed sqltracer_20200121112744.xml: 489 Query nodes to process, 528 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:40 processed sqltracer_20200121112744.xml, moving to out (sample_id 31)
+2020-01-24 12:01:40 Processing sqltracer_20200121112916.xml
+2020-01-24 12:01:44 Processed sqltracer_20200121112916.xml: 468 Query nodes to process, 511 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:44 processed sqltracer_20200121112916.xml, moving to out (sample_id 32)
+2020-01-24 12:01:44 Processing sqltracer_20200121113046.xml
+2020-01-24 12:01:47 Processed sqltracer_20200121113046.xml: 408 Query nodes to process, 447 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:47 processed sqltracer_20200121113046.xml, moving to out (sample_id 33)
+2020-01-24 12:01:47 Processing sqltracer_20200121113215.xml
+2020-01-24 12:01:51 Processed sqltracer_20200121113215.xml: 415 Query nodes to process, 459 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:51 processed sqltracer_20200121113215.xml, moving to out (sample_id 34)
+2020-01-24 12:01:51 Processing sqltracer_20200121113346.xml
+2020-01-24 12:01:54 Processed sqltracer_20200121113346.xml: 468 Query nodes to process, 508 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:54 processed sqltracer_20200121113346.xml, moving to out (sample_id 35)
+2020-01-24 12:01:54 Processing sqltracer_20200121113517.xml
+2020-01-24 12:01:58 Processed sqltracer_20200121113517.xml: 496 Query nodes to process, 541 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:01:58 processed sqltracer_20200121113517.xml, moving to out (sample_id 36)
+2020-01-24 12:01:58 Processing sqltracer_20200121113647.xml
+2020-01-24 12:02:01 Processed sqltracer_20200121113647.xml: 515 Query nodes to process, 554 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:01 processed sqltracer_20200121113647.xml, moving to out (sample_id 37)
+2020-01-24 12:02:01 Processing sqltracer_20200121113819.xml
+2020-01-24 12:02:04 Processed sqltracer_20200121113819.xml: 528 Query nodes to process, 562 unique query and execution plans,  13  skipped as archiving plans,0 errors
+2020-01-24 12:02:04 processed sqltracer_20200121113819.xml, moving to out (sample_id 38)
+2020-01-24 12:02:04 Processing sqltracer_20200121113948.xml
+2020-01-24 12:02:08 Processed sqltracer_20200121113948.xml: 434 Query nodes to process, 474 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:08 processed sqltracer_20200121113948.xml, moving to out (sample_id 39)
+2020-01-24 12:02:08 Processing sqltracer_20200121114119.xml
+2020-01-24 12:02:12 Processed sqltracer_20200121114119.xml: 409 Query nodes to process, 452 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:12 processed sqltracer_20200121114119.xml, moving to out (sample_id 40)
+2020-01-24 12:02:12 Processing sqltracer_20200121114250.xml
+2020-01-24 12:02:16 Processed sqltracer_20200121114250.xml: 444 Query nodes to process, 484 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:16 processed sqltracer_20200121114250.xml, moving to out (sample_id 41)
+2020-01-24 12:02:16 Processing sqltracer_20200121114423.xml
+2020-01-24 12:02:19 Processed sqltracer_20200121114423.xml: 467 Query nodes to process, 513 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:19 processed sqltracer_20200121114423.xml, moving to out (sample_id 42)
+2020-01-24 12:02:19 Processing sqltracer_20200121114555.xml
+2020-01-24 12:02:23 Processed sqltracer_20200121114555.xml: 447 Query nodes to process, 486 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:23 processed sqltracer_20200121114555.xml, moving to out (sample_id 43)
+2020-01-24 12:02:23 Processing sqltracer_20200121114727.xml
+2020-01-24 12:02:28 Processed sqltracer_20200121114727.xml: 508 Query nodes to process, 556 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:28 processed sqltracer_20200121114727.xml, moving to out (sample_id 44)
+2020-01-24 12:02:28 Processing sqltracer_20200121114902.xml
+2020-01-24 12:02:32 Processed sqltracer_20200121114902.xml: 513 Query nodes to process, 553 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:32 processed sqltracer_20200121114902.xml, moving to out (sample_id 45)
+2020-01-24 12:02:32 Processing sqltracer_20200121115034.xml
+2020-01-24 12:02:36 Processed sqltracer_20200121115034.xml: 439 Query nodes to process, 486 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:36 processed sqltracer_20200121115034.xml, moving to out (sample_id 46)
+2020-01-24 12:02:36 Processing sqltracer_20200121115205.xml
+2020-01-24 12:02:40 Processed sqltracer_20200121115205.xml: 404 Query nodes to process, 444 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:40 processed sqltracer_20200121115205.xml, moving to out (sample_id 47)
+2020-01-24 12:02:40 Processing sqltracer_20200121115340.xml
+2020-01-24 12:02:43 Processed sqltracer_20200121115340.xml: 605 Query nodes to process, 648 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:43 processed sqltracer_20200121115340.xml, moving to out (sample_id 48)
+2020-01-24 12:02:43 Processing sqltracer_20200121115510.xml
+2020-01-24 12:02:47 Processed sqltracer_20200121115510.xml: 401 Query nodes to process, 444 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:47 processed sqltracer_20200121115510.xml, moving to out (sample_id 49)
+2020-01-24 12:02:47 Processing sqltracer_20200121115640.xml
+2020-01-24 12:02:51 Processed sqltracer_20200121115640.xml: 441 Query nodes to process, 484 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:51 processed sqltracer_20200121115640.xml, moving to out (sample_id 50)
+2020-01-24 12:02:51 Processing sqltracer_20200121115812.xml
+2020-01-24 12:02:54 Processed sqltracer_20200121115812.xml: 472 Query nodes to process, 515 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:54 processed sqltracer_20200121115812.xml, moving to out (sample_id 51)
+2020-01-24 12:02:54 Processing sqltracer_20200121115944.xml
+2020-01-24 12:02:58 Processed sqltracer_20200121115944.xml: 425 Query nodes to process, 468 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:02:58 processed sqltracer_20200121115944.xml, moving to out (sample_id 52)
+2020-01-24 12:02:58 Processing sqltracer_20200121120121.xml
+2020-01-24 12:03:02 Processed sqltracer_20200121120121.xml: 691 Query nodes to process, 454 unique query and execution plans,  276  skipped as archiving plans,0 errors
+2020-01-24 12:03:02 processed sqltracer_20200121120121.xml, moving to out (sample_id 53)
+2020-01-24 12:03:02 Processing sqltracer_20200121120253.xml
+2020-01-24 12:03:06 Processed sqltracer_20200121120253.xml: 452 Query nodes to process, 492 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:06 processed sqltracer_20200121120253.xml, moving to out (sample_id 54)
+2020-01-24 12:03:06 Processing sqltracer_20200121120424.xml
+2020-01-24 12:03:09 Processed sqltracer_20200121120424.xml: 496 Query nodes to process, 548 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:09 processed sqltracer_20200121120424.xml, moving to out (sample_id 55)
+2020-01-24 12:03:09 Processing sqltracer_20200121120555.xml
+2020-01-24 12:03:13 Processed sqltracer_20200121120555.xml: 405 Query nodes to process, 450 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:13 processed sqltracer_20200121120555.xml, moving to out (sample_id 56)
+2020-01-24 12:03:13 Processing sqltracer_20200121120726.xml
+2020-01-24 12:03:17 Processed sqltracer_20200121120726.xml: 446 Query nodes to process, 495 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:17 processed sqltracer_20200121120726.xml, moving to out (sample_id 57)
+2020-01-24 12:03:17 Processing sqltracer_20200121120856.xml
+2020-01-24 12:03:21 Processed sqltracer_20200121120856.xml: 400 Query nodes to process, 446 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:21 processed sqltracer_20200121120856.xml, moving to out (sample_id 58)
+2020-01-24 12:03:21 Processing sqltracer_20200121121027.xml
+2020-01-24 12:03:25 Processed sqltracer_20200121121027.xml: 401 Query nodes to process, 446 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:25 processed sqltracer_20200121121027.xml, moving to out (sample_id 59)
+2020-01-24 12:03:25 Processing sqltracer_20200121121156.xml
+2020-01-24 12:03:28 Processed sqltracer_20200121121156.xml: 390 Query nodes to process, 433 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:28 processed sqltracer_20200121121156.xml, moving to out (sample_id 60)
+2020-01-24 12:03:28 Processing sqltracer_20200121121327.xml
+2020-01-24 12:03:32 Processed sqltracer_20200121121327.xml: 472 Query nodes to process, 520 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:32 processed sqltracer_20200121121327.xml, moving to out (sample_id 61)
+2020-01-24 12:03:32 Processing sqltracer_20200121121458.xml
+2020-01-24 12:03:36 Processed sqltracer_20200121121458.xml: 475 Query nodes to process, 521 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:36 processed sqltracer_20200121121458.xml, moving to out (sample_id 62)
+2020-01-24 12:03:36 Processing sqltracer_20200121121629.xml
+2020-01-24 12:03:39 Processed sqltracer_20200121121629.xml: 417 Query nodes to process, 467 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:39 processed sqltracer_20200121121629.xml, moving to out (sample_id 63)
+2020-01-24 12:03:39 Processing sqltracer_20200121121758.xml
+2020-01-24 12:03:43 Processed sqltracer_20200121121758.xml: 374 Query nodes to process, 415 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:43 processed sqltracer_20200121121758.xml, moving to out (sample_id 64)
+2020-01-24 12:03:43 Processing sqltracer_20200121121927.xml
+2020-01-24 12:03:46 Processed sqltracer_20200121121927.xml: 352 Query nodes to process, 398 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:46 processed sqltracer_20200121121927.xml, moving to out (sample_id 65)
+2020-01-24 12:03:46 Processing sqltracer_20200121122054.xml
+2020-01-24 12:03:48 Processed sqltracer_20200121122054.xml: 396 Query nodes to process, 439 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:48 processed sqltracer_20200121122054.xml, moving to out (sample_id 66)
+2020-01-24 12:03:48 Processing sqltracer_20200121122223.xml
+2020-01-24 12:03:51 Processed sqltracer_20200121122223.xml: 449 Query nodes to process, 493 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:51 processed sqltracer_20200121122223.xml, moving to out (sample_id 67)
+2020-01-24 12:03:51 Processing sqltracer_20200121122352.xml
+2020-01-24 12:03:55 Processed sqltracer_20200121122352.xml: 465 Query nodes to process, 513 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:55 processed sqltracer_20200121122352.xml, moving to out (sample_id 68)
+2020-01-24 12:03:55 Processing sqltracer_20200121122520.xml
+2020-01-24 12:03:58 Processed sqltracer_20200121122520.xml: 420 Query nodes to process, 465 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:03:58 processed sqltracer_20200121122520.xml, moving to out (sample_id 69)
+2020-01-24 12:03:58 Processing sqltracer_20200121122648.xml
+2020-01-24 12:04:01 Processed sqltracer_20200121122648.xml: 408 Query nodes to process, 456 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:01 processed sqltracer_20200121122648.xml, moving to out (sample_id 70)
+2020-01-24 12:04:01 Processing sqltracer_20200121122815.xml
+2020-01-24 12:04:04 Processed sqltracer_20200121122815.xml: 361 Query nodes to process, 405 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:04 processed sqltracer_20200121122815.xml, moving to out (sample_id 71)
+2020-01-24 12:04:04 Processing sqltracer_20200121122944.xml
+2020-01-24 12:04:08 Processed sqltracer_20200121122944.xml: 383 Query nodes to process, 421 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:08 processed sqltracer_20200121122944.xml, moving to out (sample_id 72)
+2020-01-24 12:04:08 Processing sqltracer_20200121123111.xml
+2020-01-24 12:04:11 Processed sqltracer_20200121123111.xml: 326 Query nodes to process, 357 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:11 processed sqltracer_20200121123111.xml, moving to out (sample_id 73)
+2020-01-24 12:04:11 Processing sqltracer_20200121123239.xml
+2020-01-24 12:04:14 Processed sqltracer_20200121123239.xml: 344 Query nodes to process, 378 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:14 processed sqltracer_20200121123239.xml, moving to out (sample_id 74)
+2020-01-24 12:04:14 Processing sqltracer_20200121123407.xml
+2020-01-24 12:04:17 Processed sqltracer_20200121123407.xml: 413 Query nodes to process, 447 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:17 processed sqltracer_20200121123407.xml, moving to out (sample_id 75)
+2020-01-24 12:04:17 Processing sqltracer_20200121123536.xml
+2020-01-24 12:04:20 Processed sqltracer_20200121123536.xml: 434 Query nodes to process, 473 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:20 processed sqltracer_20200121123536.xml, moving to out (sample_id 76)
+2020-01-24 12:04:20 Processing sqltracer_20200121123702.xml
+2020-01-24 12:04:24 Processed sqltracer_20200121123702.xml: 319 Query nodes to process, 353 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:24 processed sqltracer_20200121123702.xml, moving to out (sample_id 77)
+2020-01-24 12:04:24 Processing sqltracer_20200121123829.xml
+2020-01-24 12:04:27 Processed sqltracer_20200121123829.xml: 326 Query nodes to process, 360 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:27 processed sqltracer_20200121123829.xml, moving to out (sample_id 78)
+2020-01-24 12:04:27 Processing sqltracer_20200121123957.xml
+2020-01-24 12:04:30 Processed sqltracer_20200121123957.xml: 394 Query nodes to process, 433 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:30 processed sqltracer_20200121123957.xml, moving to out (sample_id 79)
+2020-01-24 12:04:30 Processing sqltracer_20200121124123.xml
+2020-01-24 12:04:33 Processed sqltracer_20200121124123.xml: 358 Query nodes to process, 388 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:33 processed sqltracer_20200121124123.xml, moving to out (sample_id 80)
+2020-01-24 12:04:33 Processing sqltracer_20200121124250.xml
+2020-01-24 12:04:36 Processed sqltracer_20200121124250.xml: 392 Query nodes to process, 426 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:36 processed sqltracer_20200121124250.xml, moving to out (sample_id 81)
+2020-01-24 12:04:36 Processing sqltracer_20200121124417.xml
+2020-01-24 12:04:39 Processed sqltracer_20200121124417.xml: 435 Query nodes to process, 485 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:39 processed sqltracer_20200121124417.xml, moving to out (sample_id 82)
+2020-01-24 12:04:39 Processing sqltracer_20200121124543.xml
+2020-01-24 12:04:41 Processed sqltracer_20200121124543.xml: 466 Query nodes to process, 524 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:41 processed sqltracer_20200121124543.xml, moving to out (sample_id 83)
+2020-01-24 12:04:41 Processing sqltracer_20200121124707.xml
+2020-01-24 12:04:43 Processed sqltracer_20200121124707.xml: 611 Query nodes to process, 390 unique query and execution plans,  270  skipped as archiving plans,0 errors
+2020-01-24 12:04:43 processed sqltracer_20200121124707.xml, moving to out (sample_id 84)
+2020-01-24 12:04:43 Processing sqltracer_20200121124824.xml
+2020-01-24 12:04:44 Processed sqltracer_20200121124824.xml: 423 Query nodes to process, 458 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:44 processed sqltracer_20200121124824.xml, moving to out (sample_id 85)
+2020-01-24 12:04:44 Processing sqltracer_20200121124946.xml
+2020-01-24 12:04:44 Processed sqltracer_20200121124946.xml: 198 Query nodes to process, 219 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:44 processed sqltracer_20200121124946.xml, moving to out (sample_id 86)
+2020-01-24 12:04:44 Processing sqltracer_20200121125110.xml
+2020-01-24 12:04:44 Processed sqltracer_20200121125110.xml: 375 Query nodes to process, 406 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:44 processed sqltracer_20200121125110.xml, moving to out (sample_id 87)
+2020-01-24 12:04:44 Processing sqltracer_20200121125226.xml
+2020-01-24 12:04:45 Processed sqltracer_20200121125226.xml: 123 Query nodes to process, 130 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:45 processed sqltracer_20200121125226.xml, moving to out (sample_id 88)
+2020-01-24 12:04:45 Processing sqltracer_20200121125344.xml
+2020-01-24 12:04:45 Processed sqltracer_20200121125344.xml: 146 Query nodes to process, 155 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:45 processed sqltracer_20200121125344.xml, moving to out (sample_id 89)
+2020-01-24 12:04:45 Processing sqltracer_20200121125506.xml
+2020-01-24 12:04:45 Processed sqltracer_20200121125506.xml: 184 Query nodes to process, 200 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:45 processed sqltracer_20200121125506.xml, moving to out (sample_id 90)
+2020-01-24 12:04:45 Processing sqltracer_20200121125625.xml
+2020-01-24 12:04:46 Processed sqltracer_20200121125625.xml: 375 Query nodes to process, 414 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:46 processed sqltracer_20200121125625.xml, moving to out (sample_id 91)
+2020-01-24 12:04:46 Processing sqltracer_20200121125749.xml
+2020-01-24 12:04:47 Processed sqltracer_20200121125749.xml: 461 Query nodes to process, 509 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:47 processed sqltracer_20200121125749.xml, moving to out (sample_id 92)
+2020-01-24 12:04:47 Processing sqltracer_20200121125914.xml
+2020-01-24 12:04:48 Processed sqltracer_20200121125914.xml: 417 Query nodes to process, 467 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:48 processed sqltracer_20200121125914.xml, moving to out (sample_id 93)
+2020-01-24 12:04:48 Processing sqltracer_20200121130035.xml
+2020-01-24 12:04:49 Processed sqltracer_20200121130035.xml: 422 Query nodes to process, 453 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:49 processed sqltracer_20200121130035.xml, moving to out (sample_id 94)
+2020-01-24 12:04:49 Processing sqltracer_20200121130159.xml
+2020-01-24 12:04:49 Processed sqltracer_20200121130159.xml: 288 Query nodes to process, 314 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:49 processed sqltracer_20200121130159.xml, moving to out (sample_id 95)
+2020-01-24 12:04:49 Processing sqltracer_20200121130320.xml
+2020-01-24 12:04:50 Processed sqltracer_20200121130320.xml: 348 Query nodes to process, 384 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:50 processed sqltracer_20200121130320.xml, moving to out (sample_id 96)
+2020-01-24 12:04:50 Processing sqltracer_20200121130436.xml
+2020-01-24 12:04:50 Processed sqltracer_20200121130436.xml: 188 Query nodes to process, 213 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:50 processed sqltracer_20200121130436.xml, moving to out (sample_id 97)
+2020-01-24 12:04:50 Processing sqltracer_20200121130556.xml
+2020-01-24 12:04:51 Processed sqltracer_20200121130556.xml: 247 Query nodes to process, 273 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:51 processed sqltracer_20200121130556.xml, moving to out (sample_id 98)
+2020-01-24 12:04:51 Processing sqltracer_20200121130716.xml
+2020-01-24 12:04:51 Processed sqltracer_20200121130716.xml: 246 Query nodes to process, 272 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:51 processed sqltracer_20200121130716.xml, moving to out (sample_id 99)
+2020-01-24 12:04:51 Processing sqltracer_20200121130835.xml
+2020-01-24 12:04:52 Processed sqltracer_20200121130835.xml: 286 Query nodes to process, 316 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:52 processed sqltracer_20200121130835.xml, moving to out (sample_id 100)
+2020-01-24 12:04:52 Processing sqltracer_20200121130953.xml
+2020-01-24 12:04:52 Processed sqltracer_20200121130953.xml: 227 Query nodes to process, 251 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:52 processed sqltracer_20200121130953.xml, moving to out (sample_id 101)
+2020-01-24 12:04:52 Processing sqltracer_20200121131113.xml
+2020-01-24 12:04:52 Processed sqltracer_20200121131113.xml: 290 Query nodes to process, 320 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:52 processed sqltracer_20200121131113.xml, moving to out (sample_id 102)
+2020-01-24 12:04:52 Processing sqltracer_20200121131235.xml
+2020-01-24 12:04:53 Processed sqltracer_20200121131235.xml: 189 Query nodes to process, 201 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:53 processed sqltracer_20200121131235.xml, moving to out (sample_id 103)
+2020-01-24 12:04:53 Processing sqltracer_20200121131351.xml
+2020-01-24 12:04:53 Processed sqltracer_20200121131351.xml: 165 Query nodes to process, 175 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:53 processed sqltracer_20200121131351.xml, moving to out (sample_id 104)
+2020-01-24 12:04:53 Processing sqltracer_20200121131510.xml
+2020-01-24 12:04:53 Processed sqltracer_20200121131510.xml: 186 Query nodes to process, 205 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:53 processed sqltracer_20200121131510.xml, moving to out (sample_id 105)
+2020-01-24 12:04:53 Processing sqltracer_20200121131625.xml
+2020-01-24 12:04:53 Processed sqltracer_20200121131625.xml: 139 Query nodes to process, 152 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:53 processed sqltracer_20200121131625.xml, moving to out (sample_id 106)
+2020-01-24 12:04:53 Processing sqltracer_20200121131744.xml
+2020-01-24 12:04:54 Processed sqltracer_20200121131744.xml: 168 Query nodes to process, 186 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:54 processed sqltracer_20200121131744.xml, moving to out (sample_id 107)
+2020-01-24 12:04:54 Processing sqltracer_20200121131902.xml
+2020-01-24 12:04:54 Processed sqltracer_20200121131902.xml: 228 Query nodes to process, 249 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:54 processed sqltracer_20200121131902.xml, moving to out (sample_id 108)
+2020-01-24 12:04:54 Processing sqltracer_20200121132018.xml
+2020-01-24 12:04:54 Processed sqltracer_20200121132018.xml: 218 Query nodes to process, 243 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:54 processed sqltracer_20200121132018.xml, moving to out (sample_id 109)
+2020-01-24 12:04:54 Processing sqltracer_20200121132137.xml
+2020-01-24 12:04:55 Processed sqltracer_20200121132137.xml: 200 Query nodes to process, 214 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:55 processed sqltracer_20200121132137.xml, moving to out (sample_id 110)
+2020-01-24 12:04:55 Processing sqltracer_20200121132256.xml
+2020-01-24 12:04:55 Processed sqltracer_20200121132256.xml: 195 Query nodes to process, 212 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:55 processed sqltracer_20200121132256.xml, moving to out (sample_id 111)
+2020-01-24 12:04:55 Processing sqltracer_20200121132415.xml
+2020-01-24 12:04:55 Processed sqltracer_20200121132415.xml: 189 Query nodes to process, 211 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:55 processed sqltracer_20200121132415.xml, moving to out (sample_id 112)
+2020-01-24 12:04:55 Processing sqltracer_20200121132532.xml
+2020-01-24 12:04:56 Processed sqltracer_20200121132532.xml: 158 Query nodes to process, 179 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:56 processed sqltracer_20200121132532.xml, moving to out (sample_id 113)
+2020-01-24 12:04:56 Processing sqltracer_20200121132648.xml
+2020-01-24 12:04:56 Processed sqltracer_20200121132648.xml: 123 Query nodes to process, 132 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:56 processed sqltracer_20200121132648.xml, moving to out (sample_id 114)
+2020-01-24 12:04:56 Processing sqltracer_20200121132805.xml
+2020-01-24 12:04:56 Processed sqltracer_20200121132805.xml: 241 Query nodes to process, 264 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:56 processed sqltracer_20200121132805.xml, moving to out (sample_id 115)
+2020-01-24 12:04:56 Processing sqltracer_20200121132924.xml
+2020-01-24 12:04:56 Processed sqltracer_20200121132924.xml: 213 Query nodes to process, 233 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:56 processed sqltracer_20200121132924.xml, moving to out (sample_id 116)
+2020-01-24 12:04:56 Processing sqltracer_20200121133039.xml
+2020-01-24 12:04:57 Processed sqltracer_20200121133039.xml: 264 Query nodes to process, 297 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:57 processed sqltracer_20200121133039.xml, moving to out (sample_id 117)
+2020-01-24 12:04:57 Processing sqltracer_20200121133157.xml
+2020-01-24 12:04:57 Processed sqltracer_20200121133157.xml: 228 Query nodes to process, 255 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:57 processed sqltracer_20200121133157.xml, moving to out (sample_id 118)
+2020-01-24 12:04:57 Processing sqltracer_20200121133314.xml
+2020-01-24 12:04:57 Processed sqltracer_20200121133314.xml: 175 Query nodes to process, 195 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:57 processed sqltracer_20200121133314.xml, moving to out (sample_id 119)
+2020-01-24 12:04:57 Processing sqltracer_20200121133431.xml
+2020-01-24 12:04:58 Processed sqltracer_20200121133431.xml: 187 Query nodes to process, 201 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:58 processed sqltracer_20200121133431.xml, moving to out (sample_id 120)
+2020-01-24 12:04:58 Processing sqltracer_20200121133547.xml
+2020-01-24 12:04:58 Processed sqltracer_20200121133547.xml: 134 Query nodes to process, 143 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:58 processed sqltracer_20200121133547.xml, moving to out (sample_id 121)
+2020-01-24 12:04:58 Processing sqltracer_20200121133704.xml
+2020-01-24 12:04:58 Processed sqltracer_20200121133704.xml: 128 Query nodes to process, 137 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:58 processed sqltracer_20200121133704.xml, moving to out (sample_id 122)
+2020-01-24 12:04:58 Processing sqltracer_20200121133820.xml
+2020-01-24 12:04:58 Processed sqltracer_20200121133820.xml: 142 Query nodes to process, 151 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:58 processed sqltracer_20200121133820.xml, moving to out (sample_id 123)
+2020-01-24 12:04:58 Processing sqltracer_20200121133938.xml
+2020-01-24 12:04:59 Processed sqltracer_20200121133938.xml: 137 Query nodes to process, 145 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:59 processed sqltracer_20200121133938.xml, moving to out (sample_id 124)
+2020-01-24 12:04:59 Processing sqltracer_20200121134053.xml
+2020-01-24 12:04:59 Processed sqltracer_20200121134053.xml: 121 Query nodes to process, 130 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:59 processed sqltracer_20200121134053.xml, moving to out (sample_id 125)
+2020-01-24 12:04:59 Processing sqltracer_20200121134211.xml
+2020-01-24 12:04:59 Processed sqltracer_20200121134211.xml: 133 Query nodes to process, 139 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:59 processed sqltracer_20200121134211.xml, moving to out (sample_id 126)
+2020-01-24 12:04:59 Processing sqltracer_20200121134328.xml
+2020-01-24 12:04:59 Processed sqltracer_20200121134328.xml: 151 Query nodes to process, 160 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:04:59 processed sqltracer_20200121134328.xml, moving to out (sample_id 127)
+2020-01-24 12:04:59 Processing sqltracer_20200121134446.xml
+2020-01-24 12:05:00 Processed sqltracer_20200121134446.xml: 173 Query nodes to process, 182 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:00 processed sqltracer_20200121134446.xml, moving to out (sample_id 128)
+2020-01-24 12:05:00 Processing sqltracer_20200121134604.xml
+2020-01-24 12:05:00 Processed sqltracer_20200121134604.xml: 152 Query nodes to process, 165 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:00 processed sqltracer_20200121134604.xml, moving to out (sample_id 129)
+2020-01-24 12:05:00 Processing sqltracer_20200121134722.xml
+2020-01-24 12:05:00 Processed sqltracer_20200121134722.xml: 189 Query nodes to process, 196 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:00 processed sqltracer_20200121134722.xml, moving to out (sample_id 130)
+2020-01-24 12:05:00 Processing sqltracer_20200121134839.xml
+2020-01-24 12:05:01 Processed sqltracer_20200121134839.xml: 141 Query nodes to process, 150 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:01 processed sqltracer_20200121134839.xml, moving to out (sample_id 131)
+2020-01-24 12:05:01 Processing sqltracer_20200121134955.xml
+2020-01-24 12:05:01 Processed sqltracer_20200121134955.xml: 139 Query nodes to process, 146 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:01 processed sqltracer_20200121134955.xml, moving to out (sample_id 132)
+2020-01-24 12:05:01 Processing sqltracer_20200121135112.xml
+2020-01-24 12:05:01 Processed sqltracer_20200121135112.xml: 141 Query nodes to process, 149 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:01 processed sqltracer_20200121135112.xml, moving to out (sample_id 133)
+2020-01-24 12:05:01 Processing sqltracer_20200121135230.xml
+2020-01-24 12:05:01 Processed sqltracer_20200121135230.xml: 160 Query nodes to process, 170 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:01 processed sqltracer_20200121135230.xml, moving to out (sample_id 134)
+2020-01-24 12:05:01 Processing sqltracer_20200121135347.xml
+2020-01-24 12:05:01 Processed sqltracer_20200121135347.xml: 130 Query nodes to process, 139 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:01 processed sqltracer_20200121135347.xml, moving to out (sample_id 135)
+2020-01-24 12:05:01 Processing sqltracer_20200121135506.xml
+2020-01-24 12:05:02 Processed sqltracer_20200121135506.xml: 168 Query nodes to process, 178 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:02 processed sqltracer_20200121135506.xml, moving to out (sample_id 136)
+2020-01-24 12:05:02 Processing sqltracer_20200121135623.xml
+2020-01-24 12:05:02 Processed sqltracer_20200121135623.xml: 168 Query nodes to process, 176 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:02 processed sqltracer_20200121135623.xml, moving to out (sample_id 137)
+2020-01-24 12:05:02 Processing sqltracer_20200121135739.xml
+2020-01-24 12:05:02 Processed sqltracer_20200121135739.xml: 121 Query nodes to process, 130 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:02 processed sqltracer_20200121135739.xml, moving to out (sample_id 138)
+2020-01-24 12:05:02 Processing sqltracer_20200121135858.xml
+2020-01-24 12:05:02 Processed sqltracer_20200121135858.xml: 156 Query nodes to process, 164 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:02 processed sqltracer_20200121135858.xml, moving to out (sample_id 139)
+2020-01-24 12:05:02 Processing sqltracer_20200121140014.xml
+2020-01-24 12:05:03 Processed sqltracer_20200121140014.xml: 128 Query nodes to process, 136 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:03 processed sqltracer_20200121140014.xml, moving to out (sample_id 140)
+2020-01-24 12:05:03 Processing sqltracer_20200121140130.xml
+2020-01-24 12:05:03 Processed sqltracer_20200121140130.xml: 133 Query nodes to process, 142 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:03 processed sqltracer_20200121140130.xml, moving to out (sample_id 141)
+2020-01-24 12:05:03 Processing sqltracer_20200121140247.xml
+2020-01-24 12:05:03 Processed sqltracer_20200121140247.xml: 151 Query nodes to process, 161 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:03 processed sqltracer_20200121140247.xml, moving to out (sample_id 142)
+2020-01-24 12:05:03 Processing sqltracer_20200121140403.xml
+2020-01-24 12:05:03 Processed sqltracer_20200121140403.xml: 107 Query nodes to process, 115 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:03 processed sqltracer_20200121140403.xml, moving to out (sample_id 143)
+2020-01-24 12:05:03 Processing sqltracer_20200121140521.xml
+2020-01-24 12:05:04 Processed sqltracer_20200121140521.xml: 185 Query nodes to process, 203 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:04 processed sqltracer_20200121140521.xml, moving to out (sample_id 144)
+2020-01-24 12:05:04 Processing sqltracer_20200121140637.xml
+2020-01-24 12:05:05 Processed sqltracer_20200121140637.xml: 171 Query nodes to process, 185 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:05 processed sqltracer_20200121140637.xml, moving to out (sample_id 145)
+2020-01-24 12:05:05 Processing sqltracer_20200121140753.xml
+2020-01-24 12:05:05 Processed sqltracer_20200121140753.xml: 188 Query nodes to process, 207 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:05 processed sqltracer_20200121140753.xml, moving to out (sample_id 146)
+2020-01-24 12:05:05 Processing sqltracer_20200121140908.xml
+2020-01-24 12:05:06 Processed sqltracer_20200121140908.xml: 165 Query nodes to process, 185 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:06 processed sqltracer_20200121140908.xml, moving to out (sample_id 147)
+2020-01-24 12:05:06 Processing sqltracer_20200121141025.xml
+2020-01-24 12:05:07 Processed sqltracer_20200121141025.xml: 176 Query nodes to process, 193 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:07 processed sqltracer_20200121141025.xml, moving to out (sample_id 148)
+2020-01-24 12:05:07 Processing sqltracer_20200121141140.xml
+2020-01-24 12:05:08 Processed sqltracer_20200121141140.xml: 148 Query nodes to process, 163 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:08 processed sqltracer_20200121141140.xml, moving to out (sample_id 149)
+2020-01-24 12:05:08 Processing sqltracer_20200121141254.xml
+2020-01-24 12:05:09 Processed sqltracer_20200121141254.xml: 131 Query nodes to process, 145 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:09 processed sqltracer_20200121141254.xml, moving to out (sample_id 150)
+2020-01-24 12:05:09 Processing sqltracer_20200121141412.xml
+2020-01-24 12:05:09 Processed sqltracer_20200121141412.xml: 151 Query nodes to process, 168 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:09 processed sqltracer_20200121141412.xml, moving to out (sample_id 151)
+2020-01-24 12:05:09 Processing sqltracer_20200121141529.xml
+2020-01-24 12:05:10 Processed sqltracer_20200121141529.xml: 158 Query nodes to process, 173 unique query and execution plans,  0  skipped as archiving plans,0 errors
+2020-01-24 12:05:10 processed sqltracer_20200121141529.xml, moving to out (sample_id 152)
+2020-01-24 12:05:10 Processing sqltracer_20200121141646.xml
