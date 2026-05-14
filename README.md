@@ -129,7 +129,7 @@ Below is a sample of the generated XML output structure:
                plan_md5="6NAAFZ3eYYPaHhwptsf2dg"/>
   </Executions>
 </Query>
-``
+```
 ---
 ## Features
 
