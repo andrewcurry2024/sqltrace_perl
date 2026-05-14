@@ -55,7 +55,7 @@ Below is a sample of the generated XML output structure:
 ```xml
 <Query md5="qg53XxQZeZXY6sHtpsJKPQ" sql_type="INSERT" total_time="37.6721" total_executions_in_sample="1" total_explains="1">
   <QueryText>
-    -- stmt: worker::select_root_ids::tsgbetresponse
+    stmt: worker::select_root_ids::tsgbetresponse
     insert into tmparcsgbetresponse_xxxxx_xxxxx (sg_response_id)
     select first 5000 sg_response_id
     from tsgbetresponse
