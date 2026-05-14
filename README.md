@@ -130,7 +130,7 @@ Below is a sample of the generated XML output structure:
   </Executions>
 </Query>
 ``
-
+---
 ## Features
 
 - Captures Informix statement history (`onstat -g his`)
