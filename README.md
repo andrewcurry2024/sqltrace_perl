@@ -79,8 +79,8 @@ Below is a sample of the generated XML output structure:
                  max_execution_time="37.6721"
                  total_executions="1">
       <PlanText>
-        Seq Scan(openbet_pte:tsgbet,fundbs06),
-        Index Scan(openbet_pte:isgbetresponse_fk1,fundbs07),
+        Seq Scan(your_db:tsgbet,fundbs06),
+        Index Scan(your_db:isgbetresponse_fk1,fundbs07),
         temp_table(Insert)
       </PlanText>
     </ExplainPlan>
@@ -113,8 +113,8 @@ Below is a sample of the generated XML output structure:
                  max_execution_time="12.7395"
                  total_executions="1">
       <PlanText>
-        Seq Scan(openbet_pte:tevunstl,fundbs03),
-        Index Scan(openbet_pte:ievmkt_x2,vlatidx05)
+        Seq Scan(your_db:tevunstl,fundbs03),
+        Index Scan(your_db:ievmkt_x2,vlatidx05)
       </PlanText>
     </ExplainPlan>
   </ExplainPlans>
@@ -220,13 +220,13 @@ FORCE_STOP=0
 Before running the tool, enable SQL tracing:
 
 ```sql
-EXECUTE FUNCTION task("set sql tracing on", 100000,"8k","med","openbet");
+EXECUTE FUNCTION task("set sql tracing on", 100000,"8k","med","<USER>");
 ```
 
 Run via:
 
 ```bash
-echo 'EXECUTE FUNCTION task("set sql tracing on", 100000,"8k","med","openbet");' | dbaccess sysadmin
+echo 'EXECUTE FUNCTION task("set sql tracing on", 100000,"8k","med","<USER>");' | dbaccess sysadmin
 ```
 
 ---
